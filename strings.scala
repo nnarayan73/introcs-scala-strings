@@ -24,7 +24,7 @@ object strings  {
 
    def getSentenceType(sentence : String) : String = {
      
-      "unknown"
+      "Something"
    }
 
 /*
